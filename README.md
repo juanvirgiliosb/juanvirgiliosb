@@ -1,5 +1,6 @@
 ## Olá, eu sou o Juan Virgílio 👋
 
+
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas** focado em construir bases sólidas para me tornar um Desenvolvedor Backend de alto impacto.
 
 Diferente do óbvio, não busco apenas aprender sintaxe; meu objetivo diário é entender **arquitetura, lógica de programação e resolução de problemas reais**.
@@ -38,4 +39,5 @@ Diferente do óbvio, não busco apenas aprender sintaxe; meu objetivo diário é
 * 📧 **E-mail:** juanvsb16@gmail.com
 
 *"Escrevendo linhas de código hoje para criar soluções que impactam o amanhã."*
+## "Esse é o meu jeito programador de ser! 🖥️"
 
