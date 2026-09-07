@@ -5,8 +5,6 @@
 
 Diferente do óbvio, não busco apenas aprender sintaxe; meu objetivo diário é entender **arquitetura, lógica de programação e resolução de problemas reais**.
 
-📌 O que estou construindo agora?
-
 📋 **Meu Foco Atual:** Engenharia de Software com **Java**
 * 🎯 Dominando os pilares da Orientação a Objetos (Abstração, Encapsulamento, Herança e Polimorfismo).
 * 🧠 Praticando estruturas de dados e algoritmos para criar códigos limpos e eficientes.
