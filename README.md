@@ -1,7 +1,7 @@
 ## Olá, eu sou o Juan Virgílio 👋
 
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas** focado em construir bases sólidas para me tornar um Desenvolvedor Backend de alto impacto.
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas** focado em construir bases sólidas para me tornar um Desenvolvedor Backend.
 
 Diferente do óbvio, não busco apenas aprender sintaxe; meu objetivo diário é entender **arquitetura, lógica de programação e resolução de problemas reais**.
 
